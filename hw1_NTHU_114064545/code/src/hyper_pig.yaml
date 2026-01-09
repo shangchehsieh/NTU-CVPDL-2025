@@ -1,0 +1,17 @@
+fliplr: 0.5
+flipud: 0.0
+degrees: 1.0 
+translate: 0.1
+scale: 0.35
+shear: 0.0
+perspective: 0.0
+
+hsv_h: 0
+hsv_s: 0.1
+hsv_v: 0.55
+
+mosaic: 0.8
+mixup: 0.1
+copy_paste: 0.0   
+close_mosaic: 40
+

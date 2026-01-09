@@ -1,0 +1,5 @@
+train: /yourpath/images/train
+val: /yourpath/images/val
+
+nc: 1 #number of categories
+names: ['swine']

@@ -1,0 +1,5 @@
+train: /home/shangche45/hw2_NTHU_114064545/data/images/train
+val: /home/shangche45/hw2_NTHU_114064545/data/images/val
+
+nc: 4 #number of categories
+names: [car, hov, person, motorcycle]
