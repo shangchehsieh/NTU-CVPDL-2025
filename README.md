@@ -2,7 +2,7 @@
 Computer vision has become deeply integrated into daily life, yet each application presents unique practical challenges. This course focuses on cutting-edge deep learning solutions within academic literature to build a robust theoretical foundation and practical expertise in computer vision.
 
 ## HW1 - Object Detection for Group-hosed Swine (Kaggle Competition)
-![image]("./hw1.png")
+<img src="./hw1.png" alt="hw1" width="40%">
 
 **1. Dataset Description**
 - Training set: 1266 images (including img/ & gt.txt)
@@ -20,7 +20,7 @@ tuning.
 - Rank: 209/509 (Include All TAICA students who come from different colleges)
 
 ## HW2 - Long-tailed object detection for drone-based intelligent counting (Kaggle Competition)
-![image](https://hackmd.io/_uploads/HJJx0eCE-e.png =70%x)
+<img src="./hw2.png" alt="hw2" width="40%">
 
 **1. Dataset Description**
 - Training set: 950 images with 33,331 objects. Each image has a
@@ -43,7 +43,7 @@ tuning.
 - Rank: 107/385 (Include All TAICA students who come from different colleges)
 
 ## HW3 - Image Generation for Handwritten Digits
-![image](https://hackmd.io/_uploads/rybgWWANWg.png =50%x)
+<img src="./hw3-1.png" alt="hw3-1" width="40%">
 
 **1. Dataset Description**
 - Dataset: MNIST
@@ -58,7 +58,7 @@ tuning.
 
 **3. Result**
 - FID: 25.53
-![image](https://hackmd.io/_uploads/H1SQzbRN-e.png =50%x)
+<img src="./hw3-2.png" alt="hw3-2" width="40%">
 
 
 ## Final Project - Falcon-CLIP: Sharp, Smart, and Robust Anomaly Detection
@@ -67,5 +67,5 @@ tuning.
 - Achieved Pixel-AUROC (Avg 93.41%) / Image-AUROC (Avg 83.07%) by engineering an anomaly-aware framework that excels at detecting high-frequency structural defects in complex visual environments.
 - Falcon-CLIP vs [AA-CLIP(CVPR 2025)](https://arxiv.org/abs/2503.06661)
 
-![image](https://hackmd.io/_uploads/ByA2fbR4Zx.png)
+<img src="./final.png" alt="final" width="70%">
 
