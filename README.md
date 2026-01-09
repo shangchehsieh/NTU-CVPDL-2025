@@ -52,7 +52,7 @@ tuning.
 - Metric: The Fréchet Inception Distance (FID)
 
 **2. Training Strategies**
-- Model: Simplified [DDPM](https://arxiv.org/abs/2006.11239) (NeurIPS 2020) 
+- Model: Simplified [DDPM (NeurIPS 2020)](https://arxiv.org/abs/2006.11239) 
 - Use DDPM as the backbone, and simplified the structure of U-Net (more details in hw3 report). 
 
 
