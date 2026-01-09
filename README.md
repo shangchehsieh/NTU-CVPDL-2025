@@ -2,7 +2,7 @@
 Computer vision has become deeply integrated into daily life, yet each application presents unique practical challenges. This course focuses on cutting-edge deep learning solutions within academic literature to build a robust theoretical foundation and practical expertise in computer vision.
 
 ## HW1 - Object Detection for Group-hosed Swine (Kaggle Competition)
-![image](https://hackmd.io/_uploads/rJ_zjeRVZl.png =70%x)
+![image](./hw1.png =70%x)
 
 **1. Dataset Description**
 - Training set: 1266 images (including img/ & gt.txt)
